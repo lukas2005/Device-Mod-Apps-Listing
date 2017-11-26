@@ -10,5 +10,5 @@ Repo where you can add links to cool apps you made :D
 	<li><a href="https://www.dropbox.com/s/ncva0r5kory2eqc/MineChat-1.0.jar?dl=0">Mine Chat</a> by GradedWarrior / Simple Chat App For CDM </li>
 	<li><a href="https://github.com/MrCrayfish/Light-Switch-App">Light-Switch-App</a> by MrCrayfish / Smart Lights</li>
 	<li><a href="https://github.com/gh102003/ClockApp">ClockApp</a> by gh102003 / a clock</li>
-	<li><a href="https://cdn.discordapp.com/attachments/367752899348004875/374929213934796800/scfm-0.6b.jar">Super Crayfish Maker</a by Dbrown, MinecraftDoodler and lukas2005 / Super Crayfish Maker</li>
+	<li><a href="https://cdn.discordapp.com/attachments/367752899348004875/374929213934796800/scfm-0.6b.jar">Super Crayfish Maker</a> by Dbrown, MinecraftDoodler and lukas2005 / Super Crayfish Maker</li>
 </ol>
