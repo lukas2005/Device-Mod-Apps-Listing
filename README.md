@@ -16,5 +16,5 @@ Repo where you can add links to cool apps you made :D
 	<li><a href="https://minecraft.curseforge.com/projects/extra-ons?gameCategorySlug=mc-mods&projectID=284406">Extra-Ons</a> by Spjoes and Dbrown55. A ton of addons.</li> 
 	<li><a href="https://minecraft.curseforge.com/projects/ocelot5836s-craytunes">Craytunes</a> by Ocelot5836. Pretty much iTunes in minecraft except that is uses all registered sound events as music.</li> 
 </ol>
-	<li><a href="https://minecraft.curseforge.com/projects/super-mario-world-application">Super Mario World</a> by Ocelot5836. A recreation of Super Mario World from the SNES on a laptop, in Minecraft.</li> 
+	<a href="https://minecraft.curseforge.com/projects/super-mario-world-application">Super Mario World</a> by Ocelot5836. A recreation of Super Mario World from the SNES on a laptop, in Minecraft.</li> 
 </ol>
